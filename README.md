@@ -1,7 +1,7 @@
 ## Getting Started
 
-`git clone https://github.com/micahblu/onfido-react-test.git && cd onfido-react-test`
+`git clone https://github.com/micahblu/onfido-react-test.git`
 
-Then `yarn` followed by `yarn start`
+Then `cd onfido-react-test && yarn` followed by `yarn start`
 
 Please reference https://github.com/onfido/onfido-sdk-ui/issues/330 for a full description of the issues
